@@ -1,4 +1,4 @@
-## Contributing to dogecoin.com (Windows Guide)
+## Contributing to hotchickentoken.com (Windows Guide)
 
 
 ### Step 1: Set-up a webserver
@@ -27,11 +27,11 @@ Now you're ready to start :smiley:
 
 ## Step 2: Getting the source
 
-[Click here](https://github.com/dogecoin/dogecoin.com/archive/gh-pages.zip) to download the latest source.
-Extract the archive to `C:\xampp\htdocs\` and rename the folder `dogecoin.com-gh-pages` to `dogecoin`.
+[Click here](https://github.com/dogecoin/hotchickentoken.com/archive/gh-pages.zip) to download the latest source.
+Extract the archive to `C:\xampp\htdocs\` and rename the folder `hotchickentoken.com-gh-pages` to `dogecoin`.
 
 ## Step 3: Happy Coding :)
 
-Now you have a working copy of [dogecoin.com](https://dogecoin.com) at [http://127.0.0.1/dogecoin](http://127.0.0.1/dogecoin).
+Now you have a working copy of [hotchickentoken.com](https://hotchickentoken.com) at [http://127.0.0.1/dogecoin](http://127.0.0.1/dogecoin).
 
 Just point your favourite IDE or Editor to `C:\xampp\htdocs\dogecoin\`  and start editing.

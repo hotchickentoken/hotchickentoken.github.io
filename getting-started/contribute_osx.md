@@ -1,10 +1,10 @@
-## Contributing to dogecoin.com (OSX Guide)
+## Contributing to hotchickentoken.com (OSX Guide)
 
 
 ### Step 1: Getting the source
 
-[Click here](https://github.com/dogecoin/dogecoin.com/archive/gh-pages.zip) to download the latest source.
-Extract the archive and rename the folder `dogecoin.com-gh-pages` to `dogecoin`.
+[Click here](https://github.com/dogecoin/hotchickentoken.com/archive/gh-pages.zip) to download the latest source.
+Extract the archive and rename the folder `hotchickentoken.com-gh-pages` to `dogecoin`.
 
 ## Step 2: Run a webserver
 
@@ -18,4 +18,4 @@ python3 -m http.server
 
 ## Step 3: Happy Coding :)
 
-Now you have a working copy of [dogecoin.com](https://dogecoin.com) at [http://localhost:8000](http://localhost:8000).
+Now you have a working copy of [hotchickentoken.com](https://hotchickentoken.com) at [http://localhost:8000](http://localhost:8000).

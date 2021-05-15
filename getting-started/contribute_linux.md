@@ -1,4 +1,4 @@
-## Contributing to dogecoin.com (Linux Guide)
+## Contributing to hotchickentoken.com (Linux Guide)
 
 
 
@@ -45,9 +45,9 @@ or
     
 Now you're ready to start :smiley:
 
-## Step 2: Clone the dogecoin.com repo
+## Step 2: Clone the hotchickentoken.com repo
 
-To clone the dogecoin.com repository you'll need GIT.
+To clone the hotchickentoken.com repository you'll need GIT.
 
 To install GIT, open a terminal and execute:
   
@@ -77,10 +77,10 @@ For any older version use:
     
 Now clone the repo (cloning will create the subdirectory `dogecoin`)
 
-    git clone https://github.com/dogecoin/dogecoin.com.git dogecoin
+    git clone https://github.com/dogecoin/hotchickentoken.com.git dogecoin
     
 ## Step 3: Happy Coding :)
 
-Now you have a working copy of [dogecoin.com](https://dogecoin.com) at [http://127.0.0.1/dogecoin](http://127.0.0.1/dogecoin).
+Now you have a working copy of [hotchickentoken.com](https://hotchickentoken.com) at [http://127.0.0.1/dogecoin](http://127.0.0.1/dogecoin).
 
 Just point your favourite IDE or Editor to `/var/www/dogecoin` or `/var/www/html/dogecoin` and start editing.
