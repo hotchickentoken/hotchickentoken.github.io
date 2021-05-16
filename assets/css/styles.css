@@ -403,7 +403,7 @@ button.bg-primary:focus {
   color: #f38a13d2 !important;
 }
 .text-secondary {
-  color: #1e4151 !important;
+  color: #000000 !important;
 }
 .page-section .page-section-heading {
   font-size: 1.25rem;
