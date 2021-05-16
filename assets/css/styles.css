@@ -249,7 +249,7 @@ form .row:first-child .floating-label-form-group {
   color: #fff;  
 } 
 .copyright {  
-  background-color: #1a252f;  
+  background-color: #c47880;  
 }
 
 a.footerlink{
@@ -379,7 +379,7 @@ a.footerlink{
   border-color: #f38a13d2;
 }
 .bg-primary {
-  background-color: #f38a13d2 !important;
+  background-color: #3ee8d8 !important;
 }
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
