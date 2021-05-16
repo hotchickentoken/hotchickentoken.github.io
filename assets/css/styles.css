@@ -248,10 +248,6 @@ form .row:first-child .floating-label-form-group {
   background-color: #2c3e50;  
   color: #fff;  
 } 
-.copyright {  
-  background-color: #c47880;  
-}
-
 a.footerlink{
   color: #f38a13d2;
 }
@@ -440,7 +436,7 @@ button.bg-primary:focus {
   color: #f38a13d2;
 }
 .footer {
-  background-color: #bb3c66;
+  background-color: #20c997;
 }
 .video-container {
     position: relative;
