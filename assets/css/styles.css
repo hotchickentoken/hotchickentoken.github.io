@@ -369,7 +369,7 @@ a.footerlink{
   background-color: #f38a13d2;
 }
 .badge-secondary {
-  background-color: #1e4151;
+  background-color: #f8f8f8;
 }
 .progress-bar {
   background-color: #f38a13d2;
@@ -387,13 +387,13 @@ button.bg-primary:focus {
   background-color: #f38a13d2 !important;
 }
 .bg-secondary {
-  background-color: #1e4151 !important;
+  background-color: #ffffff !important;
 }
 .border-primary {
   border-color: #f38a13d2 !important;
 }
 .border-secondary {
-  border-color: #1e4151 !important;
+  border-color: #fbfeff !important;
 }
 .pt-3,
 .py-3 {
