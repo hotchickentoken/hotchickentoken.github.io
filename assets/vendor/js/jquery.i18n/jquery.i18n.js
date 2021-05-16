@@ -142,12 +142,12 @@
 			if ( typeof source === 'string'	&&
 				source.split('.').pop() !== 'json'
 			) {
-				sourceMap[locale] = source + '/' +'en.json';
+				sourceMap[locale] = source + '/' + locale + '.json';
 				fallbackLocales = ( $.i18n.fallbacks[locale] || [] )
 					.concat( this.options.fallbackLocale );
 				for ( locIndex in fallbackLocales ) {
 					fallbackLocale = fallbackLocales[locIndex];
-					sourceMap[fallbackLocale] = source + '/' + 'en.json';
+					sourceMap[fallbackLocale] = source + '/' + fallbackLocale + '.json';
 				}
 				return this.load( sourceMap );
 			} else {
