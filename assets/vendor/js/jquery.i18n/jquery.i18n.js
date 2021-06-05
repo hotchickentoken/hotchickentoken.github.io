@@ -273,7 +273,7 @@
 	/* Static members */
 	I18N.defaults = {
 		locale: String.locale,
-		fallbackLocale: 'zh',
+		fallbackLocale: 'en',
 		parser: $.i18n.parser,
 		messageStore: $.i18n.messageStore
 	};
