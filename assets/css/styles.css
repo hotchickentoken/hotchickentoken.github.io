@@ -375,7 +375,7 @@ a.footerlink{
   border-color: #f38a13d2;
 }
 .bg-primary {
-  background-color: #07ffc57a !important;
+  background-color: #8e29817a !important;
 }
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -383,7 +383,7 @@ button.bg-primary:focus {
   background-color: #f38a13d2 !important;
 }
 .bg-secondary {
-  background-color: #94bec9 !important;
+  background-color: #967ba1 !important;
 }
 .border-primary {
   border-color: #f38a13d2 !important;
