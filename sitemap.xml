@@ -3,12 +3,4 @@
         <loc>https://hotchickentoken.com/index.html</loc>
         <priority>1.00</priority>
     </url>
-    <url>
-        <loc>https://hotchickentoken.com/guide.html</loc>
-        <priority>0.99</priority>
-    </url>
-    <url>
-        <loc>https://hotchickentoken.com/support.html</loc>
-        <priority>0.98</priority>
-    </url>
 </urlset>
